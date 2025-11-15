@@ -39,7 +39,7 @@ const kata = [
   `sehat selalu`,
   `jangan lupa di makan kuenya walau virtual 😅`,
   `seterusnya jadilah teman baikku 😭😭 HBD yah  ${nama}🥰`,
-  `Sekali lagi selamat HBD ${nama}  chan 🥰`
+  `Sekali lagi HBD ${nama}  chan 🥰`
 ]
 
 function gantiGambar(a) {
